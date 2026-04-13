@@ -1,6 +1,6 @@
 learn-crypto
 
-精选 GitHub 上 Star 数量最多的 200 个加密货币与区块链开源项目，涵盖公链、钱包、交易机器人、DeFi、金融投资、自动化脚本、密码学工具、学习资源等核心方向，持续追踪区块链生态最具影响力的开源力量。
+精选GitHub上加密货币与区块链开源项目，涵盖公链、钱包、交易机器人、DeFi、金融投资、自动化脚本、密码学工具、学习资源等核心方向，持续追踪区块链生态最具影响力的开源力量。
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Repos](https://img.shields.io/badge/Projects-200-blue.svg)](https://github.com/itgoyo/learn-crypto)
@@ -9,21 +9,23 @@ learn-crypto
 
 **目录**
 
-- ⭐ 精选收藏（1）
-- 🏦 交易所推荐（10）
-- ⛓️ 公链与底层协议（22）
-- 📈 交易机器人与量化（28）
-- 👛 钱包与账户管理（18）
-- 🔗 DeFi与Web3开发（20）
-- 🔐 密码学与安全工具（16）
-- 💹 金融投资与数据分析（22）
-- 🤖 自动化脚本与工具（22）
-- 📚 学习资源与书籍（12）
-- ⚡ 闪电网络与Layer2（4）
-- ⛏️ 矿机与挖矿（3）
-- 🗂️ 其他（12）
+- [⭐ 精选收藏（1）](#精选收藏)
+- [🏦 交易所推荐（10）](#交易所推荐)
+- [⛓️ 公链与底层协议（22）](#公链与底层协议)
+- [📈 交易机器人与量化（28）](#交易机器人与量化)
+- [👛 钱包与账户管理（18）](#钱包与账户管理)
+- [🔗 DeFi与Web3开发（20）](#defi与web3开发)
+- [🔐 密码学与安全工具（16）](#密码学与安全工具)
+- [💹 金融投资与数据分析（22）](#金融投资与数据分析)
+- [🤖 自动化脚本与工具（22）](#自动化脚本与工具)
+- [📚 学习资源与书籍（12）](#学习资源与书籍)
+- [⚡ 闪电网络与Layer2（4）](#闪电网络与layer2)
+- [⛏️ 矿机与挖矿（3）](#矿机与挖矿)
+- [🗂️ 其他（12）](#其他)
 
 ---
+
+<a id="精选收藏"></a>
 
 **⭐ 精选收藏**
 
@@ -34,6 +36,8 @@ learn-crypto
 | [itgoyo/awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 813⭐ | 精选加密货币与区块链资源大全，涵盖交易所、钱包、工具、学习资料、行情数据等，持续更新。 |
 
 ---
+
+<a id="交易所推荐"></a>
 
 **🏦 交易所推荐**
 
@@ -108,6 +112,8 @@ learn-crypto
 
 ---
 
+<a id="公链与底层协议"></a>
+
 **⛓️ 公链与底层协议**
 
 构建去中心化世界的基础设施，包括比特币、以太坊等主流公链实现及匿名网络协议。
@@ -138,6 +144,8 @@ learn-crypto
 | [Ztarknet/ztarknet](https://github.com/Ztarknet/ztarknet) | 100 ⭐ | Starknet-based L2 on |
 
 ---
+
+<a id="交易机器人与量化"></a>
 
 **📈 交易机器人与量化**
 
@@ -176,6 +184,8 @@ learn-crypto
 
 ---
 
+<a id="钱包与账户管理"></a>
+
 **👛 钱包与账户管理**
 
 安全存储与管理加密资产的客户端工具，涵盖桌面、移动端、浏览器插件及硬件钱包集成方案。
@@ -202,6 +212,8 @@ learn-crypto
 | [tanctl/rime](https://github.com/tanctl/rime) | 100 ⭐ | -hardened Unified Address light client for |
 
 ---
+
+<a id="defi与web3开发"></a>
 
 **🔗 DeFi与Web3开发**
 
@@ -232,6 +244,8 @@ learn-crypto
 
 ---
 
+<a id="密码学与安全工具"></a>
+
 **🔐 密码学与安全工具**
 
 底层密码学算法实现、安全加密库、同态加密及密码学安全测试套件。
@@ -256,6 +270,8 @@ learn-crypto
 | [str4d/rage](https://github.com/str4d/rage) | 2.5k ⭐ | A simple, modern, and secure file encryption tool (and Rust library) using the age format. |
 
 ---
+
+<a id="金融投资与数据分析"></a>
 
 **💹 金融投资与数据分析**
 
@@ -288,6 +304,8 @@ learn-crypto
 
 ---
 
+<a id="自动化脚本与工具"></a>
+
 **🤖 自动化脚本与工具**
 
 用于自动化链上操作、API 数据抓取、批量任务管理、套利执行及 Gas 优化的脚本工具集。
@@ -319,6 +337,8 @@ learn-crypto
 
 ---
 
+<a id="学习资源与书籍"></a>
+
 **📚 学习资源与书籍**
 
 系统学习区块链与加密货币的权威书籍、开源教程和知识库，适合从入门到精通的各阶段学习者。
@@ -340,6 +360,8 @@ learn-crypto
 
 ---
 
+<a id="闪电网络与layer2"></a>
+
 **⚡ 闪电网络与Layer2**
 
 比特币闪电网络节点实现、Layer2 扩容方案及跨链桥接协议。
@@ -354,6 +376,8 @@ learn-crypto
 
 ---
 
+<a id="矿机与挖矿"></a>
+
 **⛏️ 矿机与挖矿**
 
 支持多种挖矿算法的开源矿机软件，适用于 CPU 和 GPU 挖矿场景。
@@ -365,6 +389,8 @@ learn-crypto
 | [todxx/teamredminer](https://github.com/todxx/teamredminer) | 600 ⭐ | AMD GPU Optimized Cryptocurrency Miner. |
 
 ---
+
+<a id="其他"></a>
 
 **🗂️ 其他**
 
