@@ -31,13 +31,12 @@ learn-crypto
 
 | 仓库 | Stars | 简介 |
 |------|------:|------|
-| [itgoyo/awesome-crypto](https://github.com/itgoyo/awesome-crypto) | ⭐ | 精选加密货币与区块链资源大全，涵盖交易所、钱包、工具、学习资料、行情数据等，持续更新。 |
+| [itgoyo/awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 813⭐ | 精选加密货币与区块链资源大全，涵盖交易所、钱包、工具、学习资料、行情数据等，持续更新。 |
 
 ---
 
 **🏦 交易所推荐**
 
-主流中心化交易所导航，点击图标直达注册页面。
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
 
 <table>
