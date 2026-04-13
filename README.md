@@ -38,7 +38,7 @@ learn-crypto
 
 | 仓库 | Stars | 简介 |
 |------|------:|------|
-| [itgoyo/awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 813⭐ | 精选加密货币与区块链资源大全，涵盖交易所、钱包、工具、学习资料、行情数据等，持续更新。 |
+| [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 813⭐ | 精选加密货币与区块链资源大全，涵盖交易所、钱包、工具、学习资料、行情数据等，持续更新。 |
 
 ---
 
