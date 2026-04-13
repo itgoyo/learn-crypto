@@ -2,8 +2,13 @@ learn-crypto
 
 精选GitHub上加密货币与区块链开源项目，涵盖公链、钱包、交易机器人、DeFi、金融投资、自动化脚本、密码学工具、学习资源等核心方向，持续追踪区块链生态最具影响力的开源力量。
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Repos](https://img.shields.io/badge/Projects-200-blue.svg)](https://github.com/itgoyo/learn-crypto)
+<p align="center">
+  <a href="https://bitcoin.org"><img src="https://img.shields.io/badge/Bitcoin-₿-F7931A?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin"/></a>
+  <a href="https://ethereum.org"><img src="https://img.shields.io/badge/Ethereum-ETH-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Ethereum"/></a>
+  <a href="https://github.com/itgoyo/learn-crypto/stargazers"><img src="https://img.shields.io/github/stars/itgoyo/learn-crypto?style=flat&color=yellow&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/itgoyo/learn-crypto/network"><img src="https://img.shields.io/github/forks/itgoyo/learn-crypto?style=flat&logo=github" alt="GitHub Forks"/></a>
+  <a href="https://github.com/itgoyo/learn-crypto/commits"><img src="https://img.shields.io/github/last-commit/itgoyo/learn-crypto?style=flat&logo=git&logoColor=white&color=brightgreen" alt="Last Commit"/></a>
+</p>
 
 ---
 
